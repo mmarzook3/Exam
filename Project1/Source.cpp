@@ -2,8 +2,12 @@
 
 using namespace std;
 
-int main()
+int main(int argc, char *argv[])
 {
+
+	/*cout << "argc: " << argc << endl;
+	cout */
+
 	double sum = 0, avarage, input;
 	int count = 0;
 	do
